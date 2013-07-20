@@ -2,6 +2,9 @@
 
 ## Available Plugins
 
-* Akismet v2.5.7 - http://wordpress.org/extend/plugins/akismet/
-* W3 Total Cache v0.9.2.9 - http://wordpress.org/extend/plugins/w3-total-cache/
+* Akismet v2.5.8 - http://wordpress.org/extend/plugins/akismet/
+* W3 Total Cache v0.9.2.11 - http://wordpress.org/extend/plugins/w3-total-cache/
+* Buddy Press v1.8 - http://wordpress.org/plugins/buddypress/
+* Facebook v1.4 - http://wordpress.org/plugins/facebook/
+* WP-Recaptcha v0.1.4 - http://wordpress.org/plugins/wp-login-recaptcha/
 
